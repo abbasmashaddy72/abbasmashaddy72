@@ -140,3 +140,5 @@ JSON             19 mins         ░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+
+[Resume](https://github.com/user-attachments/files/19199724/Syed.Kounain.Abbas.Rizvi.pdf)
